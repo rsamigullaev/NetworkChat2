@@ -1,0 +1,20 @@
+2023-03-23 13:59:20,601 INFO o.s.b.StartupInfoLogger [main] Starting ChatServerApplication using Java 17.0.6 with PID 7636 (C:\Users\Руслан\Desktop\chat-server\target\classes started by Руслан in C:\Users\Руслан\Desktop\chat-server)
+2023-03-23 13:59:20,614 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-23 13:59:20,618 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-23 13:59:25,512 INFO o.s.b.StartupInfoLogger [main] Started ChatServerApplication in 6.584 seconds (process running for 9.296)
+2023-03-23 14:04:12,446 DEBUG o.r.c.c.ChatServerController [clientInboundChannel-7] Message received: ChatMessage[userId=4c691b3b-0219-4421-b3c4-cf2ef7152298, username=Руслан, content=null, timestamp=Thu Mar 23 14:04:12 MSK 2023]
+2023-03-23 14:04:19,404 DEBUG o.r.c.c.ChatServerController [clientInboundChannel-10] Message received: ChatMessage[userId=4c691b3b-0219-4421-b3c4-cf2ef7152298, username=Руслан, content=апап, timestamp=Thu Mar 23 14:04:19 MSK 2023]
+2023-03-23 14:04:25,932 DEBUG o.r.c.c.ChatServerController [clientInboundChannel-13] Message received: ChatMessage[userId=4c691b3b-0219-4421-b3c4-cf2ef7152298, username=Руслан, content=аааав, timestamp=Thu Mar 23 14:04:25 MSK 2023]
+2023-03-23 14:04:29,976 DEBUG o.r.c.c.ChatServerController [clientInboundChannel-16] Message received: ChatMessage[userId=4c691b3b-0219-4421-b3c4-cf2ef7152298, username=Руслан, content=орро, timestamp=Thu Mar 23 14:04:29 MSK 2023]
+2023-03-23 14:14:04,496 DEBUG o.r.c.c.ChatServerController [clientInboundChannel-23] Message received: ChatMessage[userId=8795a718-3bc5-4b29-bc72-fa96823041c3, username=Rus, content=null, timestamp=Thu Mar 23 14:14:04 MSK 2023]
+2023-03-23 14:14:36,322 DEBUG o.r.c.c.ChatServerController [clientInboundChannel-26] Message received: ChatMessage[userId=8795a718-3bc5-4b29-bc72-fa96823041c3, username=Rus, content=ЇаЁўҐв, timestamp=Thu Mar 23 14:14:36 MSK 2023]
+2023-03-23 14:14:45,002 DEBUG o.r.c.c.ChatServerController [clientInboundChannel-29] Message received: ChatMessage[userId=8795a718-3bc5-4b29-bc72-fa96823041c3, username=Rus, content=hi, timestamp=Thu Mar 23 14:14:44 MSK 2023]
+2023-03-23 14:14:56,446 DEBUG o.r.c.c.ChatServerController [clientInboundChannel-32] Message received: ChatMessage[userId=4c691b3b-0219-4421-b3c4-cf2ef7152298, username=Руслан, content=null, timestamp=Thu Mar 23 14:14:56 MSK 2023]
+2023-03-23 18:02:12,521 INFO o.s.b.StartupInfoLogger [main] Starting ChatServerApplication using Java 17.0.6 with PID 7364 (C:\Multithreading\CourseWork\chat-server\target\classes started by Руслан in C:\Multithreading\CourseWork\chat-server)
+2023-03-23 18:02:12,534 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-23 18:02:12,538 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-23 18:02:16,276 INFO o.s.b.StartupInfoLogger [main] Started ChatServerApplication in 5.121 seconds (process running for 8.095)
+2023-03-23 18:02:41,422 DEBUG o.r.c.c.ChatServerController [clientInboundChannel-7] Message received: ChatMessage[userId=54a1e223-4815-4b71-ac73-74c9205f778a, username=Руслан, content=null, timestamp=Thu Mar 23 18:02:41 MSK 2023]
+2023-03-23 18:02:49,287 DEBUG o.r.c.c.ChatServerController [clientInboundChannel-10] Message received: ChatMessage[userId=54a1e223-4815-4b71-ac73-74c9205f778a, username=Руслан, content=привет, timestamp=Thu Mar 23 18:02:49 MSK 2023]
+2023-03-23 18:03:37,621 DEBUG o.r.c.c.ChatServerController [clientInboundChannel-13] Message received: ChatMessage[userId=54a1e223-4815-4b71-ac73-74c9205f778a, username=Руслан, content=кто нибудь здесь есть?, timestamp=Thu Mar 23 18:03:37 MSK 2023]
+2023-03-23 18:04:26,426 DEBUG o.r.c.c.ChatServerController [clientInboundChannel-16] Message received: ChatMessage[userId=54a1e223-4815-4b71-ac73-74c9205f778a, username=Руслан, content=вроде как все еще работает..., timestamp=Thu Mar 23 18:04:26 MSK 2023]
